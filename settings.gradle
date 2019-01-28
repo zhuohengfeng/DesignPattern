@@ -1,0 +1,4 @@
+rootProject.name = 'DesignPattern'
+include '01_Singleton'
+include '02_FactoryMethod'
+

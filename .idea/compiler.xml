@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.ryna.dp.01_Singleton.main" target="1.8" />
+      <module name="com.ryna.dp.01_Singleton.test" target="1.8" />
+      <module name="com.ryna.dp.02_FactoryMethod.main" target="1.8" />
+      <module name="com.ryna.dp.02_FactoryMethod.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

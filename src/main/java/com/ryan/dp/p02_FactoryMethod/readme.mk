@@ -1,0 +1,4 @@
+AbstractHumanFactory是一个抽象类，定义了一个八卦炉具有的整体功能
+
+HumanFactory为实现类，完成具体的任务-创建人类
+
